@@ -1,0 +1,1 @@
+SELECT name, launch_year FROM products;

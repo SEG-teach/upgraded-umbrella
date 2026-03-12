@@ -1,0 +1,6 @@
+{
+  "type": "sql",
+  "database": "sqlite",
+  "input": "input.csv",
+  "output": "output.csv"
+}
