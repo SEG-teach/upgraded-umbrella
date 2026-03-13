@@ -15,6 +15,14 @@
     "memory_limit": 10000000,
     "network_enabled": false
   },
-  "labels": ["sql", "CocaCola", "select"],
-  "contact": "SEG-teach <your.email@example.com>"
+  "labels": [
+    "sql",
+    "CocaCola",
+    "select"
+  ],
+  "contact": "SEG-teach <your.email@example.com>",
+  "internals": {
+    "token": "ASDMVY3YzhYQh2p6vVz637QkdjVREnQDhpJXk_acuYwcmEXKk9TYgGiMBQPPHBUF",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
 }
