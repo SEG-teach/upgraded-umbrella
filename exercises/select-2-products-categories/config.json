@@ -1,6 +1,20 @@
 {
-  "type": "sql",
-  "database": "sqlite",
-  "input": "input.csv",
-  "output": "output.csv"
+  "type": "exercise",
+  "programming_language": "sql",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Productnamen en categorieën",
+      "en": "Product Names and Categories"
+    }
+  },
+  "evaluation": {
+    "handler": "sql",
+    "image": "dodona-sqlite",
+    "time_limit": 10,
+    "memory_limit": 10000000,
+    "network_enabled": false
+  },
+  "labels": ["sql", "CocaCola", "select"],
+  "contact": "SEG-teach <your.email@example.com>"
 }
