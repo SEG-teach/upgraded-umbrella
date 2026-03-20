@@ -4,25 +4,20 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Alle CocaCola producten",
-      "en": "All CocaCola Products"
-    }
+      "nl": "CocaCola: lijst alle producten",
+      "en": "CocaCola: list all productsf"
+    },
+    "path": "description.md"
   },
+  "labels": ["sql", "sqlite", "database", "CocaCola", "select"],
+  "contact": "SEG-teach <your.email@example.com>",
   "evaluation": {
     "handler": "sql",
     "image": "dodona-sqlite",
     "time_limit": 10,
     "memory_limit": 10000000,
-    "network_enabled": false
-  },
-  "labels": [
-    "sql",
-    "CocaCola",
-    "select"
-  ],
-  "contact": "SEG-teach <your.email@example.com>",
-  "internals": {
-    "token": "yHh3qX3yFTGC5YBFB_RmiReWhCfAjs_7YZdN4dpcEaydftNGWExiM9FBrwx749mw",
-    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+    "network_enabled": false,
+    "input": "input.csv",
+    "output": "output.csv"
   }
 }

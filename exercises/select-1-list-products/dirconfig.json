@@ -1,0 +1,13 @@
+{
+  "type": "exercise",
+  "programming_language": "sql",
+  "access": "public",
+  "evaluation": {
+    "handler": "sql",
+    "time_limit": 10,
+    "memory_limit": 100000000
+  },
+  "labels": ["sqlite", "database"],
+  "author": "Jan  Segaert seg@bimsem.be",
+  "contact": "seg@bimsem.be"
+}
