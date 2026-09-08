@@ -4,8 +4,7 @@
   "access": "public",
   "evaluation": {
     "handler": "sql",
-    "time_limit": 10,
-    "memory_limit": 100000000
+    "time_limit": 10
   },
   "labels": ["sqlite", "database"],
   "author": "Firstname Lastname <fseg@bimsem.bebe>",

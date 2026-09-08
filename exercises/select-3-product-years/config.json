@@ -12,7 +12,6 @@
     "handler": "sql",
     "image": "dodona-sqlite",
     "time_limit": 10,
-    "memory_limit": 10000000,
     "network_enabled": false
   },
   "labels": [
